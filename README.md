@@ -1,7 +1,7 @@
 ## Hi there, I'm Natasha 👋
 
 
-- 🌱 I’m currently learning software tester.
+- 🌱 I’m currently learning software Development.
 - 👯 I’m looking to collaborate with an it-company for an internship and a job.
 - Originally from :ru:, now based in  :de:.
 
